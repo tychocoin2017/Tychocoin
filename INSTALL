@@ -1,0 +1,9 @@
+Building Tychocoin
+
+See doc/readme-qt.rst for instructions on building Tychocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Tychocoin.
+
+See doc/build-*.txt for instructions on building tychocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Tychocoin.
